@@ -1,11 +1,11 @@
-# PrismGPT Terms of Service
+# CoreGPT Terms of Service
 
 Last updated: August 2, 2023
 
 ## Using the Bot
 
 - You must comply with Discord's Terms and Guidelines.
-- Do not misuse PrismGPT's features or capabilities.
+- Do not misuse CoreGPT's features or capabilities.
 - Do not use the bot for illegal, harmful, or unethical activities.
 - Do not attempt to hack, decompile, reverse-engineer, or modify the bot.
 
@@ -28,4 +28,4 @@ Last updated: August 2, 2023
 
 ## Contact
 
-Email mishalhossin20@gmail.com with any Terms of Service questions.
+Email ikdan@ikdan.ru with any Terms of Service questions.
