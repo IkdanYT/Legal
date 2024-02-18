@@ -1,12 +1,12 @@
-# PrismGPT Privacy Policy
+# CoreGPT Privacy Policy
 
-Last updated: August 12, 2023
+Last updated: February 18, 2024
 
 ## What information we collect
 
 - Basic Discord account info (username, ID, avatar)
-- Encrypted message contents sent by users and PrismGPT response
-- Server IDs that PrismGPT is added to
+- Encrypted message contents sent by users and CoreGPT response
+- Server IDs that CoreGPT is added to
 - Other data like error logs
 
 ## How we use information
@@ -29,11 +29,11 @@ We do not share your personal information except:
 
 ## Data retention
 
-We retain your personal data as long as you use PrismGPT. Aggregated, anonymized data may be retained.  
+We retain your personal data as long as you use CoreGPT. Aggregated, anonymized data may be retained.  
 
 ## Your rights
 
-You can request deletion of your data by emailing mishalhossin20@gmail.com.
+You can request deletion of your data by emailing ikdan@ikdan.ru.
 
 You can opt out of non-essential communications.
 
@@ -47,4 +47,4 @@ We may change this policy and will notify of significant changes.
 
 ## Contact
 
-Email mishalhossin20@gmail.com with privacy questions.
+Email ikdan@ikdan.ru with privacy questions.
