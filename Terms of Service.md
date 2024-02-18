@@ -1,6 +1,6 @@
 # CoreGPT Terms of Service
 
-Last updated: August 2, 2023
+Last updated: February 18, 2024
 
 ## Using the Bot
 
